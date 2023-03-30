@@ -1,0 +1,17 @@
+System,Domain,Versions,Type of Artifacts,Amount of Artifacts,Links
+Joda-Time,Date/time library,joda_time-2.10.3,User Manual,18 HTML pages,https://www.joda.org/joda-time/index.html
+Apache Ant,Build manager,apache-ant-1.10.6,User Manual,38 HTML pages,https://ant.apache.org
+Apache HTTPComponents,HTTP Client/Server library,apache-httpcomponents-4.5.9,"Tutorial, Specifications","51 tutorial pages, specification",http://hc.apache.org/index.html
+jEdit,Text editor,jedit-5.6pre0,User Manual,148 pages,www.jedit.org/
+ArgoUML,UML Modeler,argouml-0.35.4,User Manual,403 pages,http://argouml.tigris.org
+Swarm,Seismic wave visualizer,swarm-2.8.11,User Manual,56 pages,"https://volcanoes.usgs.gov/software/swarm/index.shtml
+https://github.com/usgs/swarm"
+Checkstyle,Source Code Style Checker,checkstyle-8.35,User Manual,26 HTML pages,https://checkstyle.sourceforge.io/
+JabRef,Citation Manager,jabref-5.0,User Manual,97 HTML pages,https://docs.jabref.org/
+Log4j,Logging Framework,log4j-2.13.3,User Manual,28 HTML pages,https://logging.apache.org/log4j/2.x
+Jpos,Finance library,jpos-2.1.4,User Manual,152 pages,http://jpos.org/doc/proguide-draft.pdf
+Skywalking,App. Perf. Manager,skywalking-8.0.1,User Manual,101 HTML pages,https://skywalking.apache.org/docs/
+Rhino,JavaScript interpreter,rhino-1.6R5,Specifications,188 pages,https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino
+Guava,Programming utilities,guava-28.0,User Manual,66 HTML pages,https://github.com/google/guava
+Apache ShardingSphere,DB Sharding middleware,shardingsphere-5.0.0-rc1,User Manual,159 HTML pages,
+MyBatis,Persistence Framework,mybatis-3.5.5,User Manual,8 HTML pages,https://mybatis.org/mybatis-3/dynamic-sql.html

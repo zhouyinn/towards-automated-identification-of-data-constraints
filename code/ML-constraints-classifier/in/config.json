@@ -1,0 +1,24 @@
+{
+    "model": {
+        "all": "logisticRegression,nb_multinomial,linear_svc,nu_svc,decisionTree,randomForest"
+    },
+    "times": 5,
+    "split_times": 10,
+    "debug": false,
+    "in_pos": "../../../data/constraints.csv",
+    "in_neg": "../../../data/negative-fragments.csv",
+    "data": "data.json",
+    "experiment": [
+        {
+            "use_frag": false,
+            "use_sent": false,
+            "use_dispat": false,
+            "use_operands": false,
+            "use_ct": true,
+            "models": [
+                "logisticRegression"
+            ],
+            "smote_ratio": null
+        }
+    ]
+}
